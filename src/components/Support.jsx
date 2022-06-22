@@ -39,7 +39,7 @@ const Support = () => {
 
                 <div className="bg-white rounded-xl shadow-2xl">
                     <div className="p-8">
-                        <PhoneIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]"></PhoneIcon>
+                        <SupportIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]"></SupportIcon>
                         <h3 className="font-bold text-2xl my-6">Technical Support</h3>
                         <p className="text-gray-600 text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptas eveniet perferendis optio, doloremque laboriosam, dolores vel, fugiat laudantium ullam iusto nemo obcaecati minus. Perferendis?</p>
                     </div>
@@ -50,7 +50,7 @@ const Support = () => {
 
                 <div className="bg-white rounded-xl shadow-2xl">
                     <div className="p-8">
-                        <PhoneIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]"></PhoneIcon>
+                        <ChipIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]"></ChipIcon>
                         <h3 className="font-bold text-2xl my-6">Media Inquiries</h3>
                         <p className="text-gray-600 text-xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente, laboriosam id est dignissimos pariatur, recusandae libero officia, consequatur iste animi voluptatem odio incidunt tempora optio!</p>
                     </div>
